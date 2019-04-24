@@ -1,0 +1,1630 @@
+﻿Log file open, 04/19/19 11:41:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RealidadVirtual
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310635
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.355s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.017s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.19-16.41.45:551][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.19-16.41.45:551][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.19-16.41.45:592][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.19-16.41.45:593][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.19-16.41.45:593][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.19-16.41.45:607][  0]LogInit: Computer: DESKTOP-26513C4
+[2019.04.19-16.41.45:607][  0]LogInit: User: BTEcl
+[2019.04.19-16.41.45:607][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.19-16.41.45:607][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.04.19-16.41.45:607][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.19-16.41.45:607][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.19-16.41.45:607][  0]LogMemory: Process Physical Memory: 100.62 MB used, 100.62 MB peak
+[2019.04.19-16.41.45:607][  0]LogMemory: Process Virtual Memory: 90.54 MB used, 90.54 MB peak
+[2019.04.19-16.41.45:607][  0]LogMemory: Physical Memory: 7829.94 MB used,  8420.32 MB free, 16250.27 MB total
+[2019.04.19-16.41.45:607][  0]LogMemory: Virtual Memory: 4639.96 MB used,  8420.32 MB free, 134217728.00 MB total
+[2019.04.19-16.41.45:808][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.04.19-16.41.45:808][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.04.19-16.41.45:808][  0]LogInit: Using OS detected locale (es-MX).
+[2019.04.19-16.41.46:472][  0]LogStreaming: Display: Took  0.663s to InitEngineTextLocalization.
+[2019.04.19-16.41.46:472][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.19-16.41.46:880][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.19-16.41.46:880][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.19-16.41.51:018][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.19-16.41.51:018][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.19-16.41.51:995][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.04.19-16.41.51:995][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.19-16.41.52:008][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.19-16.41.52:008][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.19-16.41.52:098][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.19-16.41.52:098][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.19-16.41.52:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.19-16.41.52:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.19-16.41.52:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.04.19-16.41.52:128][  0]LogWindows: EnumDisplayDevices:
+[2019.04.19-16.41.52:128][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.19-16.41.52:128][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.19-16.41.52:129][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.19-16.41.52:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.04.19-16.41.52:129][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.04.19-16.41.52:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.04.19-16.41.52:129][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.04.19-16.41.52:129][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.04.19-16.41.52:129][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.04.19-16.41.52:190][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.19-16.41.52:225][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.19-16.41.52:225][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Intermediate/Shaders/WorkingDirectory/11496/).
+[2019.04.19-16.41.52:225][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/BTEcl/AppData/Local/Temp/UnrealShaderWorkingDir/5D0B3A4C4FE20CE703702C95AA9174BE/'.
+[2019.04.19-16.41.53:843][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.19-16.41.53:859][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.19-16.41.53:877][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.19-16.41.53:923][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.19-16.41.53:993][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.19-16.41.54:009][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.19-16.41.54:025][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.19-16.41.54:105][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.19-16.41.54:112][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.19-16.41.54:236][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.19-16.41.54:347][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.19-16.41.54:347][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.19-16.41.54:387][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.19-16.41.54:387][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.19-16.41.54:401][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.19-16.41.54:415][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.19-16.41.54:433][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.19-16.41.54:476][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.19-16.41.54:486][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.19-16.41.54:486][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.19-16.41.55:262][  0]LogXGEController: Cleaning working directory: C:/Users/BTEcl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.19-16.41.55:263][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.19-16.41.55:263][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.19-16.41.55:263][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.19-16.42.00:439][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.19-16.42.01:340][  0]LogDerivedDataCache: Loaded boot cache 0.88s 72MB C:/Users/BTEcl/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.19-16.42.01:341][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/BTEcl/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.19-16.42.01:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/BTEcl/Desktop/RealidadVirtual/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.19-16.42.01:341][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.19-16.42.01:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/BTEcl/Desktop/RealidadVirtual/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.19-16.42.01:341][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.19-16.42.01:368][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.19-16.42.01:381][  0]LogDerivedDataCache: Using Local data cache path C:/Users/BTEcl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.19-16.42.01:381][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.19-16.42.01:381][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.19-16.42.01:399][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.19-16.42.01:401][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.19-16.42.01:450][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.19-16.42.03:319][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2019.04.19-16.42.04:497][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.19-16.42.05:354][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.19-16.42.05:369][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.19-16.42.05:369][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.19-16.42.05:369][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.19-16.42.05:369][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.19-16.42.05:594][  0]LogNetVersion: RealidadVirtual 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3516981277)
+[2019.04.19-16.42.11:022][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.093053 seconds
+[2019.04.19-16.42.11:028][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.19-16.42.11:028][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.19-16.42.11:028][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.19-16.42.42:717][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.19-16.42.42:731][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.19-16.42.44:125][  0]SourceControl: Source control is disabled
+[2019.04.19-16.42.44:125][  0]SourceControl: Source control is disabled
+[2019.04.19-16.42.44:127][  0]SourceControl: Source control is disabled
+[2019.04.19-16.42.44:129][  0]SourceControl: Source control is disabled
+[2019.04.19-16.42.44:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.19-16.42.45:028][  0]LogOcInput: OculusInput pre-init called
+[2019.04.19-16.42.45:661][  0]LogEngine: Initializing Engine...
+[2019.04.19-16.42.45:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.19-16.42.45:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.19-16.42.45:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.19-16.42.45:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.19-16.42.45:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.19-16.42.47:924][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.19-16.42.47:982][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.19-16.42.47:989][  0]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-16.42.48:099][  0]LogInit: FAudioDevice initialized.
+[2019.04.19-16.42.48:099][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.19-16.42.49:449][  0]LogDerivedDataCache: Saved boot cache 1.35s 72MB C:/Users/BTEcl/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.19-16.42.49:456][  0]LogInit: Texture streaming: Enabled
+[2019.04.19-16.42.49:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.19-16.42.49:763][  0]LogInit: Transaction tracking system initialized
+[2019.04.19-16.42.50:803][  0]BlueprintLog: New page: Editor Load
+[2019.04.19-16.42.51:944][  0]LocalizationService: Localization service is disabled
+[2019.04.19-16.42.55:980][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.19-16.42.55:980][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.19-16.42.55:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BTEcl/Desktop/RealidadVirtual/Content/' took 0.03s
+[2019.04.19-16.42.56:000][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.19-16.42.56:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.19-16.42.56:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.19-16.42.56:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.19-16.42.56:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.19-16.42.57:112][  0]SourceControl: Source control is disabled
+[2019.04.19-16.42.57:112][  0]Cmd: MAP LOAD FILE="../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.19-16.42.57:117][  0]LightingResults: New page: Lighting Build
+[2019.04.19-16.42.57:120][  0]MapCheck: New page: Map Check
+[2019.04.19-16.42.57:120][  0]LightingResults: New page: Lighting Build
+[2019.04.19-16.42.58:720][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.04.19-16.43.02:037][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.19-16.43.02:061][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.19-16.43.02:146][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.702ms to complete.
+[2019.04.19-16.43.02:146][  0]LogFileHelpers: Loading map 'StartupMap' took 5.035
+[2019.04.19-16.43.02:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-16.43.02:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-16.43.02:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-16.43.02:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-16.43.02:609][  0]LogCollectionManager: Loaded 0 collections in 0.022155 seconds
+[2019.04.19-16.43.02:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BTEcl/Desktop/RealidadVirtual/Saved/Collections/' took 0.01s
+[2019.04.19-16.43.02:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BTEcl/Desktop/RealidadVirtual/Content/Developers/BTEcl/Collections/' took 0.01s
+[2019.04.19-16.43.02:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BTEcl/Desktop/RealidadVirtual/Content/Collections/' took 0.01s
+[2019.04.19-16.43.02:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.19-16.43.02:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2572 classes and 603 folders.
+[2019.04.19-16.43.02:692][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.19-16.43.03:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.19-16.43.04:030][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.19-16.43.04:343][  0]LogSlate: Took 0.074910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.19-16.43.04:366][  0]LogSlate: Took 0.020409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.19-16.43.04:384][  0]LogSlate: Took 0.013047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.19-16.43.04:685][  0]LogRenderer: Reallocating scene render targets to support 784x336 Format 26 NumSamples 1 (Frame:1).
+[2019.04.19-16.43.04:982][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.19-16.43.04:982][  0]LogLoad: (Engine Initialization) Total time: 103.86 seconds
+[2019.04.19-16.43.04:982][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.19-16.43.05:132][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.04.19-16.43.05:230][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/BTEcl/Desktop/RealidadVirtual/Content/' took 0.21s
+[2019.04.19-16.43.05:609][  1]LogSlate: Took 0.034121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.19-16.43.05:633][  2]LogAssetRegistry: Asset discovery search completed in 62.3375 seconds
+[2019.04.19-16.43.05:635][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.19-16.43.05:635][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.04.19-16.48.26:204][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-16.48.27:107][ 79]LogSlate: Window 'Message Log' being destroyed
+[2019.04.19-16.48.27:111][ 79]LogSlate: Window 'Message Log' being destroyed
+[2019.04.19-16.48.29:428][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-16.48.33:262][443]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.19-16.48.55:633][443]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-16.48.55:695][443]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap
+[2019.04.19-16.48.55:731][443]Cmd: MAP LOAD FILE="../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.19-16.48.55:731][443]LightingResults: New page: Lighting Build
+[2019.04.19-16.48.55:732][443]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2019.04.19-16.48.55:733][443]MapCheck: New page: Map Check
+[2019.04.19-16.48.55:733][443]LightingResults: New page: Lighting Build
+[2019.04.19-16.48.57:701][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.19-16.48.57:753][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.19-16.48.57:917][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164.307ms to complete.
+[2019.04.19-16.48.57:924][443]LogFileHelpers: Loading map 'HMDLocomotionMap' took 2.194
+[2019.04.19-16.49.23:603][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-16.49.31:914][370]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Crane2/Bp/Crane_ABP.Crane_ABP
+[2019.04.19-16.49.34:209][370]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.04.19-16.49.34:504][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-16.49.34:509][370]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.04.19-16.49.35:240][370]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.04.19-16.49.36:027][370]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.19-16.49.36:453][370]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.19-16.49.36:546][370]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.04.19-16.49.36:675][370]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.19-16.50.11:850][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-16.51.05:088][249]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-16.51.54:516][121]LogSlate: Took 0.043872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.19-16.52.02:276][581]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-16.52.14:299][283]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-16.58.33:467][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/HMDLocomotionMap' took 0.027
+[2019.04.19-16.58.33:470][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Crane2/Bp/Crane_ABP] ([1] browsable assets)...
+[2019.04.19-16.58.33:488][615]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Crane2/Bp/Crane_ABP.Crane_ABP]
+[2019.04.19-16.58.33:488][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Crane2/Bp/Crane_ABP]
+[2019.04.19-16.58.34:121][615]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Crane_ABP_Auto134F449474C2189E995D134AA57D32924.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/Models/Crane2/Bp/Crane_ABP_Auto1.uasset'
+[2019.04.19-16.58.34:122][615]LogFileHelpers: Auto-saving content packages took 0.655
+[2019.04.19-16.59.50:205][906]LogSlate: Window 'Crane_ABP*' being destroyed
+[2019.04.19-16.59.50:210][906]LogRenderer: Reallocating scene render targets to support 976x420 Format 26 NumSamples 1 (Frame:70).
+[2019.04.19-16.59.55:867][205]LogSlate: Took 0.037331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.19-17.00.12:954][222]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.02.32:656][376]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.02.49:280][360]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.02.55:188][704]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.03.02:657][139]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.03.42:022][469]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.04.53:540][670]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.05.01:096][110]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.05.06:964][452]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.05.15:657][958]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.05.28:074][690]LogEditorViewport: Clicking on Actor (LMB): HMDLocomotionPawn_C (HMDLocomotionPawn)
+[2019.04.19-17.05.30:403][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.05.30:629][820]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2019.04.19-17.05.34:745][987]LogRenderer: Reallocating scene render targets to support 976x540 Format 26 NumSamples 1 (Frame:1).
+[2019.04.19-17.05.42:754][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.06.23:341][839]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2019.04.19-17.06.23:341][839]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2019.04.19-17.06.23:347][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-17.06.25:343][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-17.06.25:386][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-17.06.33:069][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.06.33:102][415]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.06.54:734][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.06.54:783][656]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.06.56:359][719]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.06.56:441][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.06.56:442][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.06.56:454][719]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:06:56)
+[2019.04.19-17.06.56:486][719]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.06.56:620][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134229s)
+[2019.04.19-17.06.56:621][719]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.06.56:621][719]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2019.04.19-17.06.56:621][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.135237s)
+[2019.04.19-17.06.56:754][719]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.06.56:832][719]LogInit: FAudioDevice initialized.
+[2019.04.19-17.06.56:860][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.06.57:047][719]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.06.57:047][719]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.06.57:058][719]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.06.57
+[2019.04.19-17.06.57:060][719]LogWorld: Bringing up level for play took: 0.012691
+[2019.04.19-17.06.57:115][719]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.06.57:177][719]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.04.19-17.06.57:199][719]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 1.202
+[2019.04.19-17.06.57:199][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.07.00:981][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.07.01:017][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.07.01:064][927]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.07.01:116][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.07.01:116][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.07.01:294][928]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.19-17.07.05:875][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.10.07:788][831]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.19-17.10.56:509][295]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionMap_Auto23B80CE0743F0F1FCE613748AAAA24E57.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/VirtualRealityBP/Maps/HMDLocomotionMap_Auto2.umap'
+[2019.04.19-17.10.56:532][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/HMDLocomotionMap' took 0.808
+[2019.04.19-17.10.56:532][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.808
+[2019.04.19-17.10.56:535][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Crane2/Bp/Crane_ABP] ([1] browsable assets)...
+[2019.04.19-17.10.56:546][295]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Crane2/Bp/Crane_ABP.Crane_ABP]
+[2019.04.19-17.10.56:546][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Crane2/Bp/Crane_ABP]
+[2019.04.19-17.10.56:844][295]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Crane_ABP_Auto28BB9CDEC4EDFE7DF1CD8E1BA412FB01C.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/Models/Crane2/Bp/Crane_ABP_Auto2.uasset'
+[2019.04.19-17.10.56:846][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn] ([1] browsable assets)...
+[2019.04.19-17.10.56:893][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn]
+[2019.04.19-17.10.56:893][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn]
+[2019.04.19-17.10.57:135][295]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionPawn_Auto21498DF9A45B727E2DD7BA18A26CC9F94.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn_Auto2.uasset'
+[2019.04.19-17.10.57:166][295]LogFileHelpers: Auto-saving content packages took 0.632
+[2019.04.19-17.12.20:033][ 74]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.12.22:323][182]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.12.22:375][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.12.22:376][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.12.22:376][182]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:12:22)
+[2019.04.19-17.12.22:376][182]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.12.22:395][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019141s)
+[2019.04.19-17.12.22:396][182]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.12.22:396][182]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2019.04.19-17.12.22:396][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.020088s)
+[2019.04.19-17.12.22:428][182]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.12.22:505][182]LogInit: FAudioDevice initialized.
+[2019.04.19-17.12.22:513][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.12.22:595][182]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.12.22:595][182]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.12.22:605][182]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.12.22
+[2019.04.19-17.12.22:605][182]LogWorld: Bringing up level for play took: 0.009242
+[2019.04.19-17.12.22:617][182]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.12.22:620][182]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.623
+[2019.04.19-17.12.22:620][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.12.26:692][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.12.26:692][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.12.26:709][410]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.12.26:779][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.12.26:779][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.12.26:963][411]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.19-17.13.03:882][583]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.13.05:198][633]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.13.05:249][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.13.05:250][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.13.05:250][633]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:13:05)
+[2019.04.19-17.13.05:250][633]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.13.05:269][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019031s)
+[2019.04.19-17.13.05:270][633]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.13.05:270][633]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2019.04.19-17.13.05:270][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019911s)
+[2019.04.19-17.13.05:304][633]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.13.05:382][633]LogInit: FAudioDevice initialized.
+[2019.04.19-17.13.05:389][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.13.05:464][633]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.13.05:464][633]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.13.05:474][633]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.13.05
+[2019.04.19-17.13.05:474][633]LogWorld: Bringing up level for play took: 0.009526
+[2019.04.19-17.13.05:486][633]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.13.05:488][633]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap -0.509
+[2019.04.19-17.13.05:489][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.13.10:710][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.13.10:711][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.13.10:728][931]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.13.10:804][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.13.10:804][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.13.10:982][932]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.19-17.13.53:447][433]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.13.54:838][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.13.54:893][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.13.54:893][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.13.54:893][487]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:13:54)
+[2019.04.19-17.13.54:893][487]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.13.54:912][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019223s)
+[2019.04.19-17.13.54:913][487]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.13.54:913][487]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.04.19-17.13.54:913][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.020074s)
+[2019.04.19-17.13.54:948][487]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.13.55:027][487]LogInit: FAudioDevice initialized.
+[2019.04.19-17.13.55:036][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.13.55:152][487]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.13.55:152][487]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.13.55:162][487]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.13.55
+[2019.04.19-17.13.55:162][487]LogWorld: Bringing up level for play took: 0.009015
+[2019.04.19-17.13.55:174][487]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.13.55:176][487]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 1.178
+[2019.04.19-17.13.55:176][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.04:513][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.04:514][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.14.04:532][ 33]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.14.04:608][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.14.04:608][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.04:787][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.19-17.14.34:634][797]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.14.36:763][895]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.14.36:824][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.36:824][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.14.36:825][895]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:14:36)
+[2019.04.19-17.14.36:825][895]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.14.36:844][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018894s)
+[2019.04.19-17.14.36:844][895]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.14.36:844][895]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.04.19-17.14.36:844][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019715s)
+[2019.04.19-17.14.36:907][895]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.14.37:030][895]LogInit: FAudioDevice initialized.
+[2019.04.19-17.14.37:037][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.14.37:152][895]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.14.37:152][895]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.14.37:163][895]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.14.37
+[2019.04.19-17.14.37:164][895]LogWorld: Bringing up level for play took: 0.010532
+[2019.04.19-17.14.37:176][895]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.14.37:178][895]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 1.18
+[2019.04.19-17.14.37:178][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.38:963][988]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.38:983][989]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.39:534][ 22]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.39:550][ 23]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.39:567][ 24]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.39:583][ 25]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.39:600][ 26]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.39:617][ 27]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:100][ 56]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:116][ 57]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:133][ 58]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:150][ 59]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:167][ 60]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:183][ 61]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:200][ 62]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:584][ 85]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:600][ 86]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:617][ 87]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:633][ 88]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:650][ 89]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:667][ 90]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:683][ 91]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.40:700][ 92]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.40:716][ 93]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:150][119]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:166][120]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:183][121]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:200][122]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:217][123]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:233][124]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:250][125]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:266][126]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:283][127]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:300][128]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:317][129]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:333][130]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:350][131]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:367][132]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:383][133]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:400][134]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:416][135]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:433][136]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:449][137]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:466][138]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:483][139]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:500][140]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:517][141]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:533][142]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:549][143]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:566][144]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:583][145]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:599][146]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:616][147]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:633][148]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:650][149]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:666][150]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:683][151]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:700][152]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:716][153]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:733][154]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:750][155]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:767][156]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:783][157]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:800][158]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:817][159]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:833][160]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:850][161]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:866][162]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:883][163]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:900][164]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:917][165]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:933][166]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:950][167]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.41:967][168]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.41:983][169]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:000][170]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:017][171]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:034][172]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:050][173]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:067][174]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:084][175]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:100][176]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:116][177]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:133][178]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:149][179]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:166][180]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:183][181]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:200][182]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:217][183]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:233][184]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:250][185]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:267][186]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:950][227]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.42:967][228]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.42:983][229]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.43:000][230]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 2.549999
+[2019.04.19-17.14.43:017][231]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -2.499999
+[2019.04.19-17.14.43:585][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.43:585][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.14.43:610][265]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.14.43:682][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.14.43:683][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.43:858][266]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.19-17.14.51:486][722]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.14.51:506][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.51:506][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.14.51:506][722]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:14:51)
+[2019.04.19-17.14.51:506][722]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.14.51:525][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018482s)
+[2019.04.19-17.14.51:525][722]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.14.51:525][722]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.04.19-17.14.51:525][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019348s)
+[2019.04.19-17.14.51:556][722]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.14.51:633][722]LogInit: FAudioDevice initialized.
+[2019.04.19-17.14.51:641][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.14.51:781][722]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.14.51:781][722]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.14.51:792][722]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.14.51
+[2019.04.19-17.14.51:792][722]LogWorld: Bringing up level for play took: 0.010645
+[2019.04.19-17.14.51:805][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.14.51:814][722]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap -0.184
+[2019.04.19-17.14.51:814][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.14.53:239][793]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:255][794]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:272][795]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:287][796]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:304][797]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:321][798]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:337][799]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:354][800]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:371][801]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:888][832]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:904][833]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:921][834]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:938][835]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:954][836]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.53:971][837]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.53:988][838]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:005][839]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:255][854]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:272][855]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:288][856]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:305][857]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:322][858]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:338][859]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:355][860]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:371][861]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:388][862]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:405][863]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:422][864]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:438][865]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:455][866]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:472][867]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:488][868]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:505][869]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:522][870]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:538][871]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:555][872]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:571][873]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:588][874]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:604][875]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:621][876]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:638][877]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:654][878]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:671][879]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:688][880]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:704][881]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:721][882]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.54:738][883]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.05
+[2019.04.19-17.14.54:754][884]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 0.0
+[2019.04.19-17.14.55:722][942]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.55:738][943]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.55:755][944]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.55:772][945]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.55:789][946]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.55:805][947]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:455][986]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:471][987]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:488][988]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:505][989]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:522][990]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:538][991]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:788][  6]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:805][  7]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:822][  8]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:839][  9]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:855][ 10]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.56:872][ 11]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.56:889][ 12]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:167][ 28]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:193][ 29]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:224][ 30]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:240][ 31]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:257][ 32]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:523][ 48]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:540][ 49]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:557][ 50]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:573][ 51]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:590][ 52]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:607][ 53]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:623][ 54]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:640][ 55]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:657][ 56]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:674][ 57]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:691][ 58]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:707][ 59]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:724][ 60]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:740][ 61]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:757][ 62]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:773][ 63]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:790][ 64]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:807][ 65]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:824][ 66]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:840][ 67]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:857][ 68]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:874][ 69]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:890][ 70]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:907][ 71]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:924][ 72]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:940][ 73]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:957][ 74]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.57:974][ 75]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.57:990][ 76]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:007][ 77]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:024][ 78]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:041][ 79]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:057][ 80]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:074][ 81]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:090][ 82]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:107][ 83]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:124][ 84]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:141][ 85]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:157][ 86]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:173][ 87]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:190][ 88]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:207][ 89]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:223][ 90]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:240][ 91]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:257][ 92]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:274][ 93]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:290][ 94]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:307][ 95]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:324][ 96]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:340][ 97]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:357][ 98]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:374][ 99]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:390][100]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:407][101]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:424][102]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:440][103]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:457][104]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:474][105]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:490][106]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:507][107]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:524][108]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:540][109]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:557][110]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:574][111]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:590][112]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:607][113]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:624][114]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:640][115]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:657][116]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:674][117]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:691][118]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:707][119]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:724][120]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:740][121]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:758][122]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:774][123]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:791][124]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:807][125]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:824][126]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:840][127]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:856][128]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:873][129]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:890][130]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.58:907][131]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.58:923][132]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:240][151]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:257][152]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:273][153]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:290][154]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:310][155]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:324][156]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:340][157]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:357][158]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:374][159]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:390][160]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:407][161]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:424][162]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:440][163]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:457][164]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:474][165]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:491][166]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:507][167]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:524][168]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:541][169]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:557][170]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:574][171]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:591][172]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:607][173]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:624][174]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:641][175]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:658][176]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:674][177]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:691][178]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:707][179]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:723][180]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.14.59:740][181]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.14.59:757][182]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:091][202]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:107][203]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:124][204]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:141][205]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:157][206]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:174][207]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:191][208]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:208][209]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:224][210]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:241][211]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:258][212]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:273][213]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:290][214]LogBlueprintUserMessages: [HMDLocomotionPawn_737] 1.5
+[2019.04.19-17.15.00:307][215]LogBlueprintUserMessages: [HMDLocomotionPawn_737] -1.45
+[2019.04.19-17.15.00:509][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.15.00:509][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.15.00:527][227]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.15.00:599][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.15.00:599][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.15.00:787][228]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.19-17.15.07:600][635]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.15.54:811][404]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.15.55:998][444]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.15.56:053][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.15.56:053][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.15.56:053][444]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:15:56)
+[2019.04.19-17.15.56:053][444]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.15.56:072][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018639s)
+[2019.04.19-17.15.56:072][444]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.15.56:072][444]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2019.04.19-17.15.56:072][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019554s)
+[2019.04.19-17.15.56:108][444]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.15.56:184][444]LogInit: FAudioDevice initialized.
+[2019.04.19-17.15.56:192][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.15.56:286][444]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.15.56:287][444]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.15.56:297][444]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.15.56
+[2019.04.19-17.15.56:298][444]LogWorld: Bringing up level for play took: 0.009893
+[2019.04.19-17.15.56:311][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.15.56:312][444]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.315
+[2019.04.19-17.15.56:312][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.15.56:884][466]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:901][467]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:917][468]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:934][469]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:951][470]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:968][471]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.56:984][472]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:000][473]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:017][474]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:034][475]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:051][476]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:067][477]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:084][478]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:101][479]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:118][480]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:134][481]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:151][482]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:168][483]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:184][484]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:201][485]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:218][486]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:235][487]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:251][488]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:267][489]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:284][490]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:300][491]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:317][492]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:334][493]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:350][494]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:367][495]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:384][496]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:401][497]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.15.57:418][498]LogBlueprintUserMessages: [HMDLocomotionPawn_737] Hello
+[2019.04.19-17.16.00:901][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.00:901][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.16.00:919][704]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.16.00:998][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.16.00:998][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.01:173][705]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.19-17.16.11:394][316]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.16.42:181][127]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.16.46:418][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.16.46:472][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.46:472][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.16.46:472][352]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:16:46)
+[2019.04.19-17.16.46:472][352]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.16.46:491][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019283s)
+[2019.04.19-17.16.46:492][352]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.16.46:492][352]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2019.04.19-17.16.46:492][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.020182s)
+[2019.04.19-17.16.46:529][352]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.16.46:604][352]LogInit: FAudioDevice initialized.
+[2019.04.19-17.16.46:612][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.16.46:716][352]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.16.46:716][352]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.16.46:727][352]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.16.46
+[2019.04.19-17.16.46:727][352]LogWorld: Bringing up level for play took: 0.009609
+[2019.04.19-17.16.46:740][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.16.46:741][352]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.744
+[2019.04.19-17.16.46:741][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.58:213][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.58:214][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.16.58:231][ 27]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.16.58:305][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.16.58:305][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.16.58:482][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.19-17.18.27:029][167]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.18.28:622][231]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.18.28:684][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.18.28:684][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.18.28:684][231]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:18:28)
+[2019.04.19-17.18.28:685][231]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.18.28:708][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023502s)
+[2019.04.19-17.18.28:709][231]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.18.28:709][231]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.04.19-17.18.28:709][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.024930s)
+[2019.04.19-17.18.28:748][231]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.18.28:828][231]LogInit: FAudioDevice initialized.
+[2019.04.19-17.18.28:835][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.18.28:911][231]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.18.28:911][231]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.18.28:921][231]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.18.28
+[2019.04.19-17.18.28:922][231]LogWorld: Bringing up level for play took: 0.009478
+[2019.04.19-17.18.28:935][231]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.18.28:937][231]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.939
+[2019.04.19-17.18.28:937][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.18.33:174][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.18.33:175][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.18.33:192][467]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.18.33:271][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.18.33:272][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.18.33:462][468]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.19-17.19.19:703][175]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.19.19:839][175]LogBlueprint: Error: [Compiler HMDLocomotionPawn] This blueprint (self) is not a SkeletalMeshComponent, therefore ' Target ' must have a connection.
+[2019.04.19-17.19.20:102][175]LogBlueprint: Warning: [Compiler HMDLocomotionPawn] [2278.98] Compile of HMDLocomotionPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 399 ms] (/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn)
+[2019.04.19-17.19.44:637][615]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.19.46:200][678]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.19.46:257][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.19.46:257][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.19.46:257][678]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:19:46)
+[2019.04.19-17.19.46:257][678]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.19.46:276][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018818s)
+[2019.04.19-17.19.46:277][678]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.19.46:277][678]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.04.19-17.19.46:277][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019767s)
+[2019.04.19-17.19.46:309][678]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.19.46:389][678]LogInit: FAudioDevice initialized.
+[2019.04.19-17.19.46:399][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.19.46:534][678]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.19.46:534][678]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.19.46:545][678]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.19.46
+[2019.04.19-17.19.46:546][678]LogWorld: Bringing up level for play took: 0.010572
+[2019.04.19-17.19.46:558][678]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.19.46:562][678]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.565
+[2019.04.19-17.19.46:563][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.23.17:551][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.23.17:551][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.23.17:569][265]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.23.17:648][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.23.17:648][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.23.17:839][266]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.19-17.23.44:987][873]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.23.46:586][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.23.46:645][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.23.46:645][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.23.46:645][938]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:23:46)
+[2019.04.19-17.23.46:645][938]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.23.46:668][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023365s)
+[2019.04.19-17.23.46:668][938]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.23.46:668][938]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.04.19-17.23.46:669][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.024226s)
+[2019.04.19-17.23.46:699][938]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.23.46:777][938]LogInit: FAudioDevice initialized.
+[2019.04.19-17.23.46:784][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.23.46:921][938]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.23.46:921][938]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.23.46:930][938]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.23.46
+[2019.04.19-17.23.46:931][938]LogWorld: Bringing up level for play took: 0.009201
+[2019.04.19-17.23.46:943][938]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.23.46:944][938]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.948
+[2019.04.19-17.23.46:945][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.24.00:340][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.24.00:341][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.24.00:359][726]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.24.00:435][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.24.00:435][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.24.00:627][727]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.19-17.24.21:044][923]LogEditorTransaction: Undo Move Node
+[2019.04.19-17.24.21:477][923]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.24.24:108][ 61]LogEditorTransaction: Undo Create Pin Link
+[2019.04.19-17.24.24:262][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.24.24:865][ 88]LogEditorTransaction: Undo Create Pin Link
+[2019.04.19-17.24.25:017][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.24.25:430][104]LogEditorTransaction: Undo Move Node
+[2019.04.19-17.24.25:579][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.24.29:610][337]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.24.42:812][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.25.38:920][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.25.40:187][437]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.25.46:006][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.25.49:519][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.25.57:383][401]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.19-17.25.57:534][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.25.58:324][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.25.58:390][451]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.26.12:670][243]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.26.14:104][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.26.14:182][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.26.14:182][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.26.14:183][298]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:26:14)
+[2019.04.19-17.26.14:183][298]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.26.14:206][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023258s)
+[2019.04.19-17.26.14:207][298]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.26.14:208][298]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2019.04.19-17.26.14:208][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.024953s)
+[2019.04.19-17.26.14:249][298]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.26.14:327][298]LogInit: FAudioDevice initialized.
+[2019.04.19-17.26.14:335][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.26.14:464][298]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.26.14:464][298]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.26.14:474][298]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.26.14
+[2019.04.19-17.26.14:475][298]LogWorld: Bringing up level for play took: 0.009885
+[2019.04.19-17.26.14:486][298]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.26.14:489][298]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.492
+[2019.04.19-17.26.14:489][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.26.20:711][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.26.20:711][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.26.20:729][656]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.26.20:814][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.26.20:814][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.26.21:006][657]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.19-17.26.40:494][810]BlueprintLog: New page: Compile HMDLocomotionPawn
+[2019.04.19-17.26.41:791][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.26.41:853][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.26.41:853][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.26.41:853][856]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:26:41)
+[2019.04.19-17.26.41:853][856]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.26.41:872][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018446s)
+[2019.04.19-17.26.41:872][856]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.26.41:873][856]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.04.19-17.26.41:873][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.019323s)
+[2019.04.19-17.26.41:906][856]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.26.41:983][856]LogInit: FAudioDevice initialized.
+[2019.04.19-17.26.41:992][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.26.42:085][856]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.26.42:085][856]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.26.42:095][856]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.26.42
+[2019.04.19-17.26.42:095][856]LogWorld: Bringing up level for play took: 0.008846
+[2019.04.19-17.26.42:107][856]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.26.42:110][856]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.113
+[2019.04.19-17.26.42:110][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.27.52:817][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.27.52:817][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.27.52:844][ 66]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.27.52:934][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.27.52:934][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.27.53:138][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.19-17.28.48:044][302]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionMap_Auto3A88747524C1660832D6FFAA65CEACD98.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/VirtualRealityBP/Maps/HMDLocomotionMap_Auto3.umap'
+[2019.04.19-17.28.48:051][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/HMDLocomotionMap' took 0.597
+[2019.04.19-17.28.48:051][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.597
+[2019.04.19-17.28.48:054][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn] ([1] browsable assets)...
+[2019.04.19-17.28.48:075][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn]
+[2019.04.19-17.28.48:075][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn]
+[2019.04.19-17.28.48:316][302]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionPawn_Auto3D851B7834FC09AED7B9D209F36C85CC3.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn_Auto3.uasset'
+[2019.04.19-17.28.48:318][302]LogFileHelpers: Auto-saving content packages took 0.265
+[2019.04.19-17.29.43:643][595]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Models/Crane2/BrazoArriba.BrazoArriba
+[2019.04.19-17.29.43:662][595]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.29.43:690][595]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.19-17.29.44:165][596]LogRenderer: Reallocating scene render targets to support 976x672 Format 26 NumSamples 1 (Frame:1).
+[2019.04.19-17.29.58:394][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.29.58:485][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Crane2/BrazoArriba" FILE="../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/BrazoArriba.uasset" SILENT=true
+[2019.04.19-17.29.58:781][443]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/BrazoArriba3FD9610B4FDAE8D5776896A60FB43A94.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/BrazoArriba.uasset'
+[2019.04.19-17.30.11:689][604]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionMapE0C60BD745B86E43A6CDD390C0D28157.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap'
+[2019.04.19-17.30.11:723][604]LogFileHelpers: Saving map 'HMDLocomotionMap' took 10.163
+[2019.04.19-17.30.11:728][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Crane2/Bp/Crane_ABP" FILE="../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/Bp/Crane_ABP.uasset" SILENT=true
+[2019.04.19-17.30.11:770][604]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Crane_ABP7B056E3444F5FF05E17DB88019019AB6.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/Bp/Crane_ABP.uasset'
+[2019.04.19-17.30.11:979][604]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionPawn4B473ABC479DF1818184F080F844B920.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset'
+[2019.04.19-17.40.08:577][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.14:023][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.16:075][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.16:588][137]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.17:099][139]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.18:641][146]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.29:947][200]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.30:460][202]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.33:016][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.33:529][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.34:040][218]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.39:826][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.42:901][280]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.44:937][294]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.45:453][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.47:490][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.48:521][343]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.57:312][427]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.40.58:852][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.11:825][545]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.12:388][550]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.12:899][552]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.15:462][571]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.16:484][576]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.16:997][578]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.17:505][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.19:072][593]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.20:600][603]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.24:186][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.26:234][629]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.26:745][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.30:328][647]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.32:375][656]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.32:880][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.35:950][671]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.36:462][673]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.36:974][675]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.40:042][689]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.40:556][691]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.41:067][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.42:609][700]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.44:137][705]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.44:650][707]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.45:162][709]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.48:230][723]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.48:740][725]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.50:282][732]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.50:786][733]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.41.52:327][740]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.10:744][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.11:261][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.18:404][939]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.18:917][941]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.19:428][943]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.22:498][957]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.23:010][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.23:522][961]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.30:171][992]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.30:684][994]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.31:195][996]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.35:810][ 18]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.36:373][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.37:981][ 39]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.39:500][ 48]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.40:014][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.40:527][ 52]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.43:608][ 76]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.44:632][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.46:170][ 87]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.46:683][ 89]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.48:217][ 96]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.49:234][100]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.49:746][102]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.50:258][104]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.50:771][106]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.53:841][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.54:353][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.42.54:865][124]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.06:636][181]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.07:148][183]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.07:668][185]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.08:174][187]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.08:683][189]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.09:195][191]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.10:270][199]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.19-17.43.16:869][553]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Models/Crane2/BrazoArriba_Skeleton.BrazoArriba_Skeleton
+[2019.04.19-17.43.17:513][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.43.17:602][553]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.19-17.43.28:640][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.43.43:990][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.44.03:366][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.44.10:651][696]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.44.10:672][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.44.10:672][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.44.10:672][696]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:44:10)
+[2019.04.19-17.44.10:672][696]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.44.10:694][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021385s)
+[2019.04.19-17.44.10:695][696]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.44.10:695][696]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2019.04.19-17.44.10:695][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.022631s)
+[2019.04.19-17.44.10:729][696]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.44.10:806][696]LogInit: FAudioDevice initialized.
+[2019.04.19-17.44.10:835][696]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.44.10:835][696]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.44.10:844][696]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.44.10
+[2019.04.19-17.44.10:845][696]LogWorld: Bringing up level for play took: 0.008796
+[2019.04.19-17.44.10:858][696]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.861
+[2019.04.19-17.44.10:858][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.44.35:700][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.44.35:700][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.44.35:808][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.44.35:808][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.44.35:846][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.44.35:888][180]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.04.19-17.44.36:822][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.44.40:400][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.44.44:797][713]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Crane2/BrazoArriba_Anim.BrazoArriba_Anim
+[2019.04.19-17.44.44:821][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.19-17.44.44:853][713]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.19-17.44.45:213][713]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.19-17.44.58:527][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.45.33:342][559]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.45.50:002][531]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.46.02:039][228]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.46.10:434][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.46.14:913][978]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.46.25:672][601]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.46.37:827][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.46.47:947][906]BlueprintLog: New page: Compile Crane_ABP
+[2019.04.19-17.46.49:768][  1]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-17.46.49:824][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.46.49:826][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-17.46.49:827][  1]PIE: New page: PIE session: HMDLocomotionMap (19/04/2019 07:46:49)
+[2019.04.19-17.46.49:827][  1]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap
+[2019.04.19-17.46.49:850][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022319s)
+[2019.04.19-17.46.49:851][  1]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.04.19-17.46.49:851][  1]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.04.19-17.46.49:851][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap (0.023384s)
+[2019.04.19-17.46.49:882][  1]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-17.46.49:962][  1]LogInit: FAudioDevice initialized.
+[2019.04.19-17.46.49:971][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.46.50:092][  1]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.04.19-17.46.50:092][  1]LogLoad: Game class is 'GameModeBase'
+[2019.04.19-17.46.50:102][  1]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 60) at 2019.04.19-12.46.50
+[2019.04.19-17.46.50:103][  1]LogWorld: Bringing up level for play took: 0.009441
+[2019.04.19-17.46.50:115][  1]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.19-17.46.50:118][  1]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap 0.121
+[2019.04.19-17.46.50:119][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.47.11:591][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.47.11:591][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-17.47.11:611][278]LogSlate: Window 'RealidadVirtual Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-17.47.11:655][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-17.47.11:655][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/HMDLocomotionMap.HMDLocomotionMap:PersistentLevel.HMDLocomotionMap'
+[2019.04.19-17.47.11:712][279]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.19-17.47.38:908][892]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Crane2/BrazoExtender_Anim.BrazoExtender_Anim
+[2019.04.19-17.48.02:067][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.49.13:895][508]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Models/Crane2/BrazoExtender_Anim_Montage.BrazoExtender_Anim_Montage
+[2019.04.19-17.49.30:814][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-17.51.04:453][ 37]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionMap_Auto4033D436547D40C04135BF480567EECE9.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/VirtualRealityBP/Maps/HMDLocomotionMap_Auto4.umap'
+[2019.04.19-17.51.04:459][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/HMDLocomotionMap' took 0.676
+[2019.04.19-17.51.04:459][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.676
+[2019.04.19-17.51.04:463][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Crane2/Bp/Crane_ABP] ([1] browsable assets)...
+[2019.04.19-17.51.04:481][ 37]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Crane2/Bp/Crane_ABP.Crane_ABP]
+[2019.04.19-17.51.04:481][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Crane2/Bp/Crane_ABP]
+[2019.04.19-17.51.04:534][ 37]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Crane_ABP_Auto47B082BA543216E16A54E92B1452BA631.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/Models/Crane2/Bp/Crane_ABP_Auto4.uasset'
+[2019.04.19-17.51.04:543][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Crane2/BrazoExtender_Anim_Montage] ([1] browsable assets)...
+[2019.04.19-17.51.04:556][ 37]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Models/Crane2/BrazoExtender_Anim_Montage.BrazoExtender_Anim_Montage]
+[2019.04.19-17.51.04:556][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Crane2/BrazoExtender_Anim_Montage]
+[2019.04.19-17.51.04:571][ 37]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/BrazoExtender_Anim_Montage_Auto4975564ED47D02D587336D9B227768309.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Autosaves/Game/Models/Crane2/BrazoExtender_Anim_Montage_Auto4.uasset'
+[2019.04.19-17.51.04:572][ 37]LogFileHelpers: Auto-saving content packages took 0.111
+[2019.04.19-17.51.59:167][181]LogSlate: Window 'Save Content' being destroyed
+[2019.04.19-17.52.02:304][321]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/HMDLocomotionMap132085DD422D06B3E12DE788A9CE5C75.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap'
+[2019.04.19-17.52.02:399][321]LogFileHelpers: Saving map 'HMDLocomotionMap' took 0.845
+[2019.04.19-17.52.02:407][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Crane2/Bp/Crane_ABP" FILE="../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/Bp/Crane_ABP.uasset" SILENT=true
+[2019.04.19-17.52.02:446][321]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/Crane_ABPA2169BF0447B939800246F833CDF2F0F.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/Bp/Crane_ABP.uasset'
+[2019.04.19-17.52.02:468][321]LogSavePackage: Moving '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Saved/BrazoExtender_Anim_MontageA83045C24310F5B27186119540F4F999.tmp' to '../../../../../../Users/BTEcl/Desktop/RealidadVirtual/Content/Models/Crane2/BrazoExtender_Anim_Montage.uasset'
+[2019.04.19-17.52.05:127][409]LogSlate: Window 'RealidadVirtual - Unreal Editor' being destroyed
+[2019.04.19-17.52.05:388][410]Cmd: QUIT_EDITOR
+[2019.04.19-17.52.05:645][410]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-17.52.05:662][410]LogExit: Preparing to exit.
+[2019.04.19-17.52.06:020][410]LogExit: Editor shut down
+[2019.04.19-17.52.06:021][410]LogExit: Transaction tracking system shut down
+[2019.04.19-17.52.06:848][410]LogExit: Object subsystem successfully closed.
+[2019.04.19-17.52.06:880][410]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.19-17.52.06:891][410]LogD3D11RHI: Shutdown
+[2019.04.19-17.52.06:892][410]LogD3D11RHI: CleanupD3DDevice
+[2019.04.19-17.52.06:900][410]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module AnimationEditor (626)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (624)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module Voice (622)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (612)
+[2019.04.19-17.52.06:924][410]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.04.19-17.52.06:925][410]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.04.19-17.52.06:925][410]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.04.19-17.52.06:928][410]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.04.19-17.52.06:929][410]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.04.19-17.52.06:930][410]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.04.19-17.52.07:313][410]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.04.19-17.52.07:378][410]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.04.19-17.52.07:389][410]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.04.19-17.52.07:389][410]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.04.19-17.52.07:392][410]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.04.19-17.52.07:392][410]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.04.19-17.52.07:392][410]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.04.19-17.52.07:392][410]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.04.19-17.52.07:392][410]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.04.19-17.52.07:393][410]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.04.19-17.52.07:395][410]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.04.19-17.52.07:396][410]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.04.19-17.52.07:396][410]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.04.19-17.52.07:396][410]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.04.19-17.52.07:396][410]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.04.19-17.52.07:396][410]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.04.19-17.52.07:598][410]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.19-17.52.07:602][410]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.19-17.52.07:603][410]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.19-17.52.07:704][410]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.19-17.52.07:804][410]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.19-17.52.07:805][410]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.19-17.52.07:805][410]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.19-17.52.07:805][410]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.19-17.52.07:805][410]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.19-17.52.07:806][410]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.19-17.52.07:808][410]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.19-17.52.07:808][410]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.19-17.52.07:809][410]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.19-17.52.07:809][410]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.19-17.52.07:809][410]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.19-17.52.07:809][410]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.04.19-17.52.07:810][410]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.04.19-17.52.07:816][410]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.04.19-17.52.07:817][410]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.04.19-17.52.07:820][410]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.04.19-17.52.07:821][410]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.04.19-17.52.07:850][410]LogDerivedDataCache: Shutdown
+[2019.04.19-17.52.07:850][410]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.04.19-17.52.07:850][410]LogXGEController: Cleaning working directory: C:/Users/BTEcl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.04.19-17.52.07:851][410]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.04.19-17.52.07:858][410]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.04.19-17.52.07:858][410]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.04.19-17.52.07:863][410]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.04.19-17.52.07:863][410]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.04.19-17.52.07:898][410]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.04.19-17.52.07:899][410]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.04.19-17.52.07:900][410]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.04.19-17.52.07:900][410]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.04.19-17.52.07:919][410]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.04.19-17.52.07:919][410]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.04.19-17.52.07:919][410]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF75AE646-4A71-06D5-2528-A3860C3A7242%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=44c8c95c4a0ad4f44221a28c485dc04d%7C77a09998c0fb4c638bf9cce1613551a8%7C53075712-a5fe-4a47-af1a-ea58e05642ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.19-17.52.07:919][410]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF75AE646-4A71-06D5-2528-A3860C3A7242%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=44c8c95c4a0ad4f44221a28c485dc04d%7C77a09998c0fb4c638bf9cce1613551a8%7C53075712-a5fe-4a47-af1a-ea58e05642ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.19-17.52.07:936][410]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.04.19-17.52.07:937][410]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.04.19-17.52.07:938][410]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.19-17.52.07:938][410]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.04.19-17.52.07:938][410]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.19-17.52.07:938][410]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.19-17.52.07:938][410]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.19-17.52.07:938][410]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.19-17.52.07:939][410]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.19-17.52.07:939][410]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.19-17.52.07:939][410]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.19-17.52.07:941][410]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.19-17.52.07:954][410]LogExit: Exiting.
+[2019.04.19-17.52.07:964][410]Log file closed, 04/19/19 12:52:07
